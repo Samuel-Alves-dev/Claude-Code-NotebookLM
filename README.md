@@ -21,11 +21,11 @@ Durante o estudo foram explorados temas como funcionamento do Claude Code, conhe
 
 Foram utilizadas cinco fontes para a construção deste caderno temático:
 
-1. Site oficial do Claude AI.
-2. Documentação oficial da Anthropic.
-3. Artigo técnico sobre Claude Code.
-4. Vídeo do YouTube sobre Claude Code.
-5. Vídeo do YouTube demonstrando aplicações práticas do Claude Code.
+1. https://claude.ai/
+2. https://platform.claude.com/docs/en/home
+3. https://www.alura.com.br/artigos/o-que-e-claude-ai
+4. https://www.youtube.com/watch?v=mpALXah_PBg
+5. https://www.youtube.com/watch?v=RBwX9U2AEr8
 
 ## Estrutura do Projeto
 
